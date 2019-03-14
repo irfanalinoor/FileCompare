@@ -4,3 +4,10 @@ C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\bin\Debug\Fi
 C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Debug\FileCompare.csproj.CoreCompileInputs.cache
 C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Debug\FileCompare.exe
 C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Debug\FileCompare.pdb
+C:\Users\irfan\Documents\FileCompare\FileCompare\bin\Debug\FileCompare.exe.config
+C:\Users\irfan\Documents\FileCompare\FileCompare\bin\Debug\FileCompare.exe
+C:\Users\irfan\Documents\FileCompare\FileCompare\bin\Debug\FileCompare.pdb
+C:\Users\irfan\Documents\FileCompare\FileCompare\obj\Debug\FileCompare.csprojAssemblyReference.cache
+C:\Users\irfan\Documents\FileCompare\FileCompare\obj\Debug\FileCompare.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Documents\FileCompare\FileCompare\obj\Debug\FileCompare.exe
+C:\Users\irfan\Documents\FileCompare\FileCompare\obj\Debug\FileCompare.pdb
