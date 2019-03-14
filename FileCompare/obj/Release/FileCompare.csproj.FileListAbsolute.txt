@@ -1,0 +1,7 @@
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\bin\Release\FileCompare.exe.config
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\bin\Release\FileCompare.exe
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\bin\Release\FileCompare.pdb
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Release\FileCompare.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Release\FileCompare.exe
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Release\FileCompare.pdb
+C:\Users\irfan\Documents\FileCompareConsole\FileCompare\FileCompare\obj\Release\FileCompare.csprojAssemblyReference.cache
